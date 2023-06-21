@@ -1,0 +1,1 @@
+.sequences-app-wrapper--disable-all,.sequences-app-wrapper--disable-all :not([data-enable-pointer-events=true]){pointer-events:none}.sequences-app-wrapper--disable-all [data-enable-pointer-events=true],.sequences-app-wrapper--disable-all [data-enable-pointer-events=true] *{pointer-events:auto}

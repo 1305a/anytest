@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="9.5367546mm"
+   height="9.5367546mm"
+   viewBox="0 0 9.5367546 9.5367546"
+   version="1.1"
+   id="svg32152"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Менеджер лицензий.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview32154"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4823793"
+     inkscape:cx="105.57352"
+     inkscape:cy="113.66861"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs32149" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.96969953,-75.779102)">
+    <g
+       id="g32440"
+       transform="translate(-113.37178,110.81507)">
+      <path
+         style="color:#000000;fill:#646f66;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 117.17047,-35.035969 c -2.62814,0 -4.76839,2.140245 -4.76839,4.768378 0,2.628136 2.14025,4.768377 4.76839,4.768377 2.62815,0 4.76837,-2.140241 4.76837,-4.768377 0,-2.628133 -2.14022,-4.768378 -4.76837,-4.768378 z m 0,0.826951 c 2.18237,0 3.94142,1.759046 3.94142,3.941427 0,2.18238 -1.75905,3.94143 -3.94142,3.94143 -2.18239,0 -3.94141,-1.75905 -3.94141,-3.94143 0,-2.182381 1.75902,-3.941427 3.94141,-3.941427 z"
+         id="path1113-46-3-5" />
+      <path
+         id="path26446"
+         style="color:#000000;fill:#646f66;stroke-width:3.77953;-inkscape-stroke:none"
+         d="m 438.77344,-124.12695 c -1.53116,0.0221 -3.05142,0.62438 -4.19336,1.80468 -2.28392,2.36063 -2.21239,6.16141 0.1543,8.45118 2.04131,1.97497 5.15037,2.20702 7.43164,0.71875 0.0675,0.10823 0.15093,0.21275 0.25,0.30859 l 8.10937,7.8457 c 0.49672,0.48058 1.18658,0.56583 1.54883,0.19141 l 0.58984,-0.60742 c 0.36225,-0.37442 0.25453,-1.06435 -0.24218,-1.54492 l -8.10938,-7.84375 c -0.0996,-0.0964 -0.20731,-0.17617 -0.31836,-0.24024 1.41217,-2.32916 1.0765,-5.42734 -0.96484,-7.40234 -1.18334,-1.14489 -2.7247,-1.70376 -4.25586,-1.68164 z m 0.0293,1.87695 c 1.04363,-0.0149 2.09597,0.37059 2.91407,1.16211 1.6362,1.58303 1.6797,4.15427 0.10937,5.77734 -1.57032,1.62308 -4.14114,1.66311 -5.77734,0.0801 -1.6362,-1.58303 -1.68166,-4.15427 -0.11133,-5.77734 0.78516,-0.81154 1.82161,-1.22726 2.86523,-1.24219 z"
+         transform="scale(0.26458333)" />
+    </g>
+  </g>
+</svg>
