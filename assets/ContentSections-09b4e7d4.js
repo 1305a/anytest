@@ -1,1 +1,0 @@
-import{o as e,c as n,_ as t}from"./index-763c3293.js";function c(r,s){return e(),n("h2",null,"Секции")}const o={},_=t(o,[["render",c]]);export{_ as default};
