@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as s,a as o}from"./index-7ac8dfbb.js";const a={name:"PatientsAll"},c={class:""},n=o("h1",null,"Пациенты",-1),_=[n];function r(l,i,d,p,f,h){return t(),s("div",c,_)}const u=e(a,[["render",r]]);export{u as default};
