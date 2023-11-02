@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s,a as o}from"./index-0363f83e.js";const a={name:"PatientsAll"},c={class:""},n=o("h1",null,"Пациенты",-1),_=[n];function r(l,i,d,p,f,h){return s(),t("div",c,_)}const u=e(a,[["render",r]]);export{u as default};
